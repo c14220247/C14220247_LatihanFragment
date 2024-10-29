@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/game_menu"
+        android:icon="@drawable/cards"
+        android:title="Game" />
+    <item
+        android:id="@+id/score_menu"
+        android:icon="@drawable/scores"
+        android:title="Score" />
+
+    <item
+        android:id="@+id/setting_menu"
+        android:icon="@drawable/settings"
+        android:title="Settings" />
+</menu>
